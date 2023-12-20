@@ -1,0 +1,120 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #bababa;
+  }
+  #conteneurs{
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  header {
+    background-image: url(images/rxxkls46ms0411.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+  }
+  h1{
+    background-color: rgb(0, 0, 0,0.6);
+    width: fit-content;
+    padding: 5px;
+  }
+  #intro{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+img{
+    width: 60%;
+    }
+  
+  nav ul {
+    padding: 0;
+    background-color: rgb(0, 0, 0,0.6);
+    width: fit-content;
+    padding: 5px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: font-size 0.3s ease;
+  }
+  nav ul li a:hover{
+    font-size: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  #partie1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  #photomask{
+    display: flex;
+    flex-direction: row;
+  }
+  #partie2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 30px;
+  }
+  #photopillarmen{
+    display: flex;
+    flex-direction: row;
+  }
+  #partie3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 30px;
+  }
+  #photojotaro{
+    display: flex;
+    flex-direction: row;
+  }
+  #partie4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 30px;
+  }
+  #photojosuke{
+    display: flex;
+    flex-direction: row;
+  }
+  #partie5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 30px;
+  }
+  #photogiorno{
+    display: flex;
+    flex-direction: row;
+  }
+  #photojojos{
+    width: 110%;
+    margin: 0 auto;
+  }
+  #fit {
+    
+    padding: 10px;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+  }
